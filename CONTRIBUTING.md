@@ -13,6 +13,6 @@ Add your name to tle list of contributers followed by your username.
 - Malay Kumar Jain | jainmalaykumar
 - Anurika | anurika22
 - Prasan Kumar | Prasann707
-- Aasit | enc-rypto
+- Aasit babele | enc-rypto
 - Mustekeem Arsh | MustekeemArsh10
 - Atul Singh | Lanceiz
